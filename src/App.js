@@ -1,8 +1,8 @@
 
 function App() {
   return (
-    <div className=" bg-green-200 ">
-        <h1 className="heading" >Hey There This is akshay</h1>
+    <div className=" w-full h-screen ">
+        <div className="bg-white text-gray-600 text-3xl p-2 font-bold shadow w-full h-14 text-center">Algo Viz </div>
     </div>
   );
 }
