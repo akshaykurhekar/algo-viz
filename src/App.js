@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 function App() {
-  const [item, setItem] = useState([1, 2, 3, 4, 5]);
+  const item = [1, 2, 3, 4, 5];
   const [style, setStyle] = useState('');  
 
   var steps = [];
